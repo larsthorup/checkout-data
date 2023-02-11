@@ -1,0 +1,30 @@
+id,name,price,currency,rebateQuantity,rebatePercent,upsellProductId
+vitamin-d-90-100,"D-vitamin, 90ug, 100 stk",116,DKK,3,10,
+vitamin-c-500-250,"C-vitamin, 500mg, 250 stk",150,DKK,2,25,vitamin-c-depot-500-250
+vitamin-c-depot-500-250,"C-vitamin Depot, 500mg, 250 stk",175,DKK,3,10,
+fish-oil-1000-120,"Omega 3 fiskeolie, 1000mg, 120 stk",69,DKK,5,10,
+coffee-grinder,Kaffekværn,145,DKK,0,0,coffee-grinder-pro
+coffee-grinder-pro,Kaffekværn Præcision,320,DKK,0,0,
+toothbrush,"Tandbørste, 5stk",40,DKK,0,0,toothbrush-bamboo
+toothbrush-bamboo,"Tandbørste i bambus, 3stk",40,DKK,2,10,
+trimmer,Barbermaskine,200,DKK,0,0,trimmer-battery
+trimmer-battery,Barbermaskine m batteri,350,DKK,0,0,
+hair-clip,Hårklemme,25,DKK,2,20,hair-clip-large
+hair-clip-large,"Hårklemme, stor",45,DKK,0,0,
+scarf-cotton,"Tørklæde, bomuld",100,DKK,2,10,scarf-wool
+scarf-wool,"Tørklæde, uld",150,DKK,2,10,scarf-silk
+scarf-silk,"Tørklæde, silke",250,DKK,2,10,
+cap,Kasket,150,DKK,2,10,cap-flat
+cap-flat,"Kasket, sixpence",590,DKK,0,0,
+teddy,Plysbamse,75,DKK,0,0,teddy-large
+teddy-large,"Plysbamse, stor",150,DKK,0,0,
+kids-songbook,De små synger,120,DKK,0,0,kids-songbook-hardcover
+kids-songbook-hardcover,"De små synger, indbundet",180,DKK,0,0,
+coffeebeans-500g,Kaffebønner,50,DKK,4,25,coffeebeans-organic-500g
+coffeebeans-organic-500g,"Kaffebønner, økologiske",60,DKK,2,10,
+the-english-100g,"Sort te, 100g",20,DKK,4,25,the-darjeeling-100g
+the-darjeeling-100g,"Sort te, Darjeeling, 100g",30,DKK,4,25,the-organic-100g
+the-organic-100g,"Sort te, Darjeeling, økologisk, 100g",35,DKK,2,10,
+sugar-white-1kg,"Sukker, hvidt, 1000g",30,DKK,4,25,sugar-cane-1kg
+sugar-cane-1kg,"Rørsukker, 1000g",40,DKK,4,25,sugar-organic-1kg
+sugar-organic-1kg,"Rørsukker, økologisk, 1000g",45,DKK,2,10,
